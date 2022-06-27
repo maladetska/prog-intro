@@ -2,7 +2,7 @@
  
 [Условия домашних заданий](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
 
-[Тесты](https://github.com/maladetska/paradigms-2022/tree/master/tests)
+[Тесты](https://github.com/maladetska/paradigms-2022/tree/master/tests](https://github.com/maladetska/prog-intro-2021/tree/main/tests)
 
 
 #|Name|Сomplexity|Mod
