@@ -8,12 +8,12 @@
 #|Name|Сomplexity|Mod
 ---|---|---|---
 1|Запусти меня!||
-2|[Сумма чисел]()|base|*Long*
+2|[Сумма чисел](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/SumLong.java)|base|*Long*
 3|[Реверс]()|base|*Odd2*
 4|[Подсчет слов]()|base|*Words*
-5|[Свой сканнер](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/ReverseAbc2/myscanner/MyScanner.java)|base|*[Abc2](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/ReverseAbc2/ReverseAbc2.java)*
-6|[Подсчет слов++]()|base|*Position*
-7|[Разметка]()|base|*BBCode*
+5|[Свой сканнер](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/ReverseAbc2.java)|base|*Abc2*
+6|[Подсчет слов++](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/WsppPosition.java)|base|*Position*
+7|[Разметка](https://github.com/maladetska/prog-intro-2021/tree/main/java-solutions/markup)|base|*BBCode*
 9|[Markdown to HTML]()|base|*Var*
 10|[Игра m,n,k]()|base|*Матчи*
 11|[Выражения]()|easy|*Triple*
