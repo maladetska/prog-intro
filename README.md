@@ -11,7 +11,7 @@
 2|[Сумма чисел]()|base|*Long*
 3|[Реверс]()|base|*Odd2*
 4|[Подсчет слов]()|base|*Words*
-5|[Свой сканнер](https://github.com/maladetska/prog-intro-2021/blob/main/ReverseAbc2/myscanner/MyScanner.java)|base|*[Abc2](https://github.com/maladetska/prog-intro-2021/blob/main/ReverseAbc2/ReverseAbc2.java)
+5|[Свой сканнер](https://github.com/maladetska/prog-intro-2021/blob/main/ReverseAbc2/myscanner/MyScanner.java)|base|*[Abc2](https://github.com/maladetska/prog-intro-2021/blob/main/ReverseAbc2/ReverseAbc2.java)*
 6|[Подсчет слов++]()|base|*Position*
 7|[Разметка]()|base|*BBCode*
 9|[Markdown to HTML]()|base|*Var*
