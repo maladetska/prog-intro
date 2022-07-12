@@ -8,17 +8,17 @@
 #|Name|Сomplexity|Mod
 ---|---|---|---
 1|Запусти меня!||
-2|[Сумма чисел](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/SumLong.java)|base|*Long*
-3|[Реверс]()|base|*Odd2*
-4|[Подсчет слов]()|base|*Words*
-5|[Свой сканнер](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/ReverseAbc2.java)|base|*Abc2*
-6|[Подсчет слов++](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/WsppPosition.java)|base|*Position*
-7|[Разметка](https://github.com/maladetska/prog-intro-2021/tree/main/java-solutions/markup)|base|*BBCode*
-9|[Markdown to HTML]()|base|*Var*
-10|[Игра m,n,k]()|base|*Матчи*
-11|[Выражения]()|easy|*Triple*
-12|[Разбор выражений]()|easy|*Zeroes*
-13|[Обработка ошибок](])|easy|*Zeroes*
+2|[Сумма чисел](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html#sum)|[Base](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/sum/Sum.java)|[*Long*](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/sum/SumLong.java)
+3|[Реверс]()|Base|*Odd2*
+4|[Подсчет слов]()|Base|*Words*
+5|[Свой сканнер](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/ReverseAbc2.java)|Base|*Abc2*
+6|[Подсчет слов++](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/WsppPosition.java)|Base|*Position*
+7|[Разметка](https://github.com/maladetska/prog-intro-2021/tree/main/java-solutions/markup)|Base|*BBCode*
+9|[Markdown to HTML]()|Base|*Var*
+10|[Игра m,n,k]()|Base|*Матчи*
+11|[Выражения]()|Easy|*Triple*
+12|[Разбор выражений]()|Easy|*Zeroes*
+13|[Обработка ошибок](])|Easy|*Zeroes*
 
 ------
 01.03.02 ITMO, first year, first term
