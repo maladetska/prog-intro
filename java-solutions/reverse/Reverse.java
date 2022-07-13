@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class Reverse {
+    private static final int SIZE = 15;
+
     static int[] arrayOfLines;
     static int countOfLines;
 
@@ -28,8 +30,8 @@ public class Reverse {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        arrayOfNumbers = new int[15];
-        arrayOfLines = new int[15];
+        arrayOfNumbers = new int[SIZE];
+        arrayOfLines = new int[SIZE];
         countOfLines = 0;
 
         while (scanner.hasNextLine()) {
