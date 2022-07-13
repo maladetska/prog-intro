@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class ReverseOdd2 {
+    private static final int SIZE = 15;
+
     static int currPos = 0;
 
     static int[] arrayOfLines;
@@ -30,8 +32,8 @@ public class ReverseOdd2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        arrayOfNumbers = new int[15];
-        arrayOfLines = new int[15];
+        arrayOfNumbers = new int[SIZE];
+        arrayOfLines = new int[SIZE];
         countOfLines = 0;
 
         while (scanner.hasNextLine()) {
