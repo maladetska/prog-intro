@@ -9,7 +9,7 @@
 ---|---|---|---
 1|Запусти меня!||
 2|[Сумма чисел](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html#sum)|[Base](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/sum/Sum.java)|[*Long*](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/sum/SumLong.java)
-3|[Реверс]()|[Base](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/reverse/Reverse.java)|[*Odd2*](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/reverse/ReverseOdd2.java)
+3|[Реверс](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html#reverse)|[Base](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/reverse/Reverse.java)|[*Odd2*](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/reverse/ReverseOdd2.java)
 4|[Подсчет слов]()|Base|*Words*
 5|[Свой сканнер](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/ReverseAbc2.java)|Base|*Abc2*
 6|[Подсчет слов++](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/WsppPosition.java)|Base|*Position*
