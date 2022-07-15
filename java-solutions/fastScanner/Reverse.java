@@ -66,28 +66,28 @@ public class Reverse {
 
 /* SOLUTION WITH ArrayList
 
- import java.util.ArrayList;
- import java.util.Scanner;
+import java.io.IOException;
+import java.util.ArrayList;
+import scanner.FastScanner;
 
- public class Reverse {
-     public static void main(String[] args) {
-         Scanner scanner = new Scanner(System.in);
-         var array = new ArrayList<>();
+public class Reverse {
+    public static void main(String[] args) throws IOException {
+        FastScanner scanner = new FastScanner(System.in);
+        var array = new ArrayList<>();
 
-         while (scanner.hasNextLine()) {
-             String line = scanner.nextLine();
-             Scanner scannerLine = new Scanner(line);
+        while (scanner.hasNextLine()) {
+            String line = scanner.nextLine();
+            FastScanner scannerLine = new FastScanner(line);
 
-             array.add("\n");
-             while (scannerLine.hasNextInt()) {
-                 array.add(scannerLine.nextInt());
-             }
-             scannerLine.close();
-         }
-         scanner.close();
+            array.add("\n");
+            while (scannerLine.hasNextInt()) {
+                array.add(scannerLine.nextInt());
+            }
+            scannerLine.close();
+        }
+        scanner.close();
 
-         for (int i = array.size() - 1; i >= 0; i--)
-             System.out.print(" " + array.get(i));
-     }
- }
-*/
+        for (int i = array.size() - 1; i >= 0; i--)
+            System.out.print(" " + array.get(i));
+    }
+}*/
