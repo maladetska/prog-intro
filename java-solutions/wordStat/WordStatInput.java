@@ -6,7 +6,10 @@ import java.util.Map;
 public class WordStatInput {
     public static void main(String[] args) throws IOException {
         Map<String, Integer> words = new LinkedHashMap<>();
-        BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(args[0]), StandardCharsets.UTF_8));
+        BufferedReader in =
+                new BufferedReader(
+                        new InputStreamReader(
+                                new FileInputStream(args[0]), StandardCharsets.UTF_8));
         String line = in.readLine();
         while (line != null) {
             int firstInd = -1;
@@ -29,7 +32,10 @@ public class WordStatInput {
             line = in.readLine();
         }
 
-        try (BufferedWriter out = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(args[1]), StandardCharsets.UTF_8))) {
+        try (BufferedWriter out =
+                     new BufferedWriter(
+                             new OutputStreamWriter(
+                                     new FileOutputStream(args[1]), StandardCharsets.UTF_8))) {
             for (String keys : words.keySet()) {
                 out.write(keys + " " + words.get(keys) + "\n");
             }
