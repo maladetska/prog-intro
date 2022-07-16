@@ -10,7 +10,6 @@ public abstract class AbstractElement implements Element {
     }
 
     protected abstract String markMd();
-
     protected abstract String markBB();
 
     @Override
