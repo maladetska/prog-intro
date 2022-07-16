@@ -13,7 +13,7 @@
 4|[Подсчет слов](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html#wordstat)|[Base](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/wordStat/WordStatInput.java)|[*Words*](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/wordStat/WordStatWords.java)
 5|[Свой сканнер](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html#scanner)|[Base](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/fastScanner/scanner/FastScanner.java)|[*Abc2*](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/fastScanner/scanner/FastScannerAbc2.java)
 6|[Подсчет слов++](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html#wspp)|[Base](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/wspp/Wspp.java)|[*Position*](https://github.com/maladetska/prog-intro-2021/blob/main/java-solutions/wspp/WsppPosition.java)
-7|[Разметка](https://github.com/maladetska/prog-intro-2021/tree/main/java-solutions/markup)|Base|*BBCode*
+7|[Разметка](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html#markup)|[Base](https://github.com/maladetska/prog-intro-2021/tree/main/java-solutions/markup)|[*BBCode*](https://github.com/maladetska/prog-intro-2021/tree/main/java-solutions/markup)
 9|[Markdown to HTML]()|Base|*Var*
 10|[Игра m,n,k]()|Base|*Матчи*
 11|[Выражения]()|Easy|*Triple*
