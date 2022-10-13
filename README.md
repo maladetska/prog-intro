@@ -1,4 +1,4 @@
-# prog-intro-2021
+# prog-intro
  
 [Условия домашних заданий](https://www.kgeorgiy.info/courses/prog-intro/homeworks.html)
 
